@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055230224629",
+    "project_id": "produtosfacil-72c45",
+    "storage_bucket": "produtosfacil-72c45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055230224629:android:776e0fe6c9e2c01f773dbc",
+        "android_client_info": {
+          "package_name": "com.example.gerenciadordeprodutos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7n3asQv_mXWUQm3fkzDS8_6irMXlHFI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

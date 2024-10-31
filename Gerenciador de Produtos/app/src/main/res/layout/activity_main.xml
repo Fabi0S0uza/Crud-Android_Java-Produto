@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etProductCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Código do Produto"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/etProductValue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Valor do Produto"
+        android:inputType="number|numberDecimal" />
+
+    <Button
+        android:id="@+id/btnCadastrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cadastrar"
+        android:translationX="0dp" />
+
+    <Button
+        android:id="@+id/btnAlterar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Alterar"
+        android:translationX="0dp" />
+
+    <Button
+        android:id="@+id/btnDeletar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Deletar"
+        android:translationX="0dp" />
+
+    <Button
+        android:id="@+id/btnBuscar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Buscar"
+        android:translationX="0dp" />
+
+</LinearLayout>
